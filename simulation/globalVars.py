@@ -1,0 +1,19 @@
+STEM = 2
+NERVE = 3
+SKIN = 4
+
+FINITE_METABOLIC_RESERVOIR_COUNT = 1
+FINITE_INFORMATIONAL_RESERVOIR_COUNT = 2
+DIRECTIONS = [(-1, -1), (-1, 0), (-1, 1), (0, -1), (0, 1), (1, -1), (1, 0), (1, 1)]
+MAX_INITIAL_RESERVOIR_VALUE = 600
+
+'''
+0 = SW 
+1 = W
+2 = NW
+3 = S
+4 = N
+5 = SE
+6 = E
+7 = NE
+'''
